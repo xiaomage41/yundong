@@ -1,0 +1,131 @@
+.beijing{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/beijing.jpg);
+    background-size:100%;
+    background-position: 0 -500px;
+}
+header{
+    width: 100%;
+    height: 90px;
+    padding:0  40px;
+    background: #fff;
+}
+header img:nth-child(1){
+    width: 241px;
+    height: 40px;
+    float:left ;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-left: 130px;
+}
+header img:nth-child(2){
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 130px;
+}
+.title{
+    width: 100%;
+    height: 48px;
+    background: #000;
+}
+.title ul{
+    width: 1190px;
+    height: 48px;
+    margin: auto;
+}
+.title ul li{
+    width: 128px;
+    height: 48px;
+    text-align: center;
+    line-height: 48px;
+    float: left;   
+}
+.title ul li a{
+    color:#8d9095;
+}
+.contant{
+    width: 1188px;
+    height: 1459px;
+    background: #fff;
+    margin:  auto;
+    padding:85px 44px 0;
+}
+.contant1{
+    width: 100%;
+    height: 1264px;
+}
+.contant2{
+    width: 96px;
+    height: 101px;
+    margin: auto;
+    padding-bottom: 45px;
+    
+}
+.contant2 span:nth-child(1){
+    font-size: 24px;
+    color:#191919;
+}
+.contant2 span:nth-child(2){
+    font-size: 12px;
+    color:#999999;
+    display: block;
+    margin-left: 18px;
+}
+
+.contant3{
+    width: 1100px;
+    height: 600px;  
+}
+.concont5{
+    width: 366px;
+    height: 584px;
+
+    position: relative;float: left;
+}
+.contant4{
+    width: 366px;
+    height: 584px;
+    padding: 30px;
+    margin-bottom: 15px;
+    position: absolute;
+}
+.contant4 img{
+    width: 304px;
+    height: 372px;    
+}
+.contant4 div{
+    color: #444444;
+    font-size: 16px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+
+
+.l11{
+    width: 100%;
+    height: 100px;
+}
+.small{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #5b5b5b;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+.small a{
+    color:#fff;
+    line-height: 40px;
+}

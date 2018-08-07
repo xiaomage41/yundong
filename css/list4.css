@@ -1,0 +1,164 @@
+.beijing{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/beijing.jpg);
+    background-size:100%;
+    background-position: 0 -500px;
+}
+header{
+    width: 100%;
+    height: 90px;
+    padding:0  40px;
+    background: #fff;
+}
+header img:nth-child(1){
+    width: 241px;
+    height: 40px;
+    float:left ;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-left: 130px;
+}
+header img:nth-child(2){
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 130px;
+}
+.title{
+    width: 100%;
+    height: 48px;
+    background: #000;
+}
+.title ul{
+    width: 1190px;
+    height: 48px;
+    margin: auto;
+}
+.title ul li{
+    width: 128px;
+    height: 48px;
+    text-align: center;
+    line-height: 48px;
+    float: left;   
+}
+.title ul li a{
+    color:#8d9095;
+}
+.zuihou{
+    width: 1180px;
+    height: 850px;
+    background: #fff;
+    padding-top: 60px;
+    margin: auto;
+}
+.zuihou_1{
+    width: 1180px;
+    height: 295px;
+    margin:  auto;
+    padding: 0 40px;
+}
+.zuihou_2{
+    width: 298px;
+    height: 225px;
+}
+.zuihou_2 span{
+    display: block;
+    width: 294px;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 400;
+    color:rgb(136, 136, 136);
+}
+.zuihou_2 span:nth-child(1){
+    font-size: 16px;
+    font-weight: 700;
+    color:rgb(105, 105, 105);
+}
+.zuihou_3{
+    width: 298px;
+    height: 46px;
+    padding-top: 12px;
+}
+.zuihou_3 ul{
+    width: 298px;
+    height: 28px;
+}
+.zuihou_3 ul li{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    float: left;
+
+}
+.x{
+    background-image: url("../img/xuebi.png");
+    background-position: -49px -72px;
+}
+.y{
+    background-image: url("../img/xuebi.png");
+    background-position: -24px -72px;
+}
+.m{
+    background-image: url("../img/xuebi.png");
+    background-position: 0 -72px;
+}
+.o{
+    background-image: url("../img/xuebi.png");
+    background-position: -96px -72px;
+}
+.zuihou_4{
+    width: 893px;
+    height: 214px;
+    float: right;
+    margin-top: -271px;
+}
+.zuihou_4 input{
+    width: 435px;
+    height: 30px;
+    padding: 2px;
+    border-bottom: 1px solid #e8e8e8;
+    margin-bottom: 5px;
+    outline: none;
+    margin-top: 15px;
+}
+.zuihou_4 textarea{
+    border-bottom: 1px solid #e8e8e8;
+    resize: none;
+    outline: none;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.dibu_img{
+    width: 1010px;
+    height: 460px;
+    margin:  auto;
+}
+.dibu_img img{
+    width: 1010px;
+    height: 460px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.l11{
+    width: 100%;
+    height: 100px;
+}
